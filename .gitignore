@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+*.ipynb_checkpoints/
+outputs/
+*.png
+*.txt
+!README.md
+.DS_Store
+venv/
+.venv/

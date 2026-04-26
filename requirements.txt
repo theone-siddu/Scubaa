@@ -1,0 +1,13 @@
+fairlearn==0.10.0
+aif360==0.6.1
+transformers==4.40.0
+datasets==2.19.0
+torch==2.2.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.21.0
+gradio==4.31.0
+reportlab==4.1.0
