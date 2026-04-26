@@ -13,7 +13,7 @@ Built for the **Google Solution Challenge 2026** under the **Unbiased AI Decisio
 | Resource | Link |
 |---|---|
 | 🧪 Google Colab Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jqcdpKdbNIxKpJimjgOcFjqXwFWMTwOT) |
-| 🤗 Hugging Face Space | _Coming soon_ |
+| 🤗 Hugging Face Space |https://huggingface.co/spaces/siddu413/truesight-ai |
 
 ---
 
